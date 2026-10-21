@@ -1,0 +1,129 @@
+{
+  "author": {
+    "name": "Kaelen Voss (陳拓宇)",
+    "title": "Senior Technical Artist & Creative Technologist",
+    "avatarSeed": "celestial",
+    "headline": "Bridging High-Fidelity Real-time Graphics, Interactive Storytelling & Web3D",
+    "bio": "專注於 Unity 6、Unreal 5 與 WebGL / Three.js 即時渲染管線。致力於創造具有空間感、情緒張力與優雅互動體驗的虛擬世界與技術美術系統。",
+    "philosophy": "「代碼是畫布的幾何結構，光影是靈魂的呼吸律動。」將硬核工程與極致美學熔鑄於每一幀 3D 渲染。",
+    "stats": [
+      { "label": "行業經驗", "value": "8+ Years" },
+      { "label": "已上線作品", "value": "18+ Titles" },
+      { "label": "開源貢獻", "value": "3.5k★ GitHub" },
+      { "label": "技術演講", "value": "GDC & WebGL Conf" }
+    ],
+    "skills": [
+      {
+        "category": "引擎與圖形管線",
+        "items": ["Unity 6 URP/HDRP", "Three.js / WebGL", "HLSL / GLSL Shaders", "VFX Graph & Compute", "Procedural World Gen"]
+      },
+      {
+        "category": "程式架構與技術",
+        "items": ["TypeScript / React", "C# Architecture", "Data-Oriented Tech (DOTS)", "Web Audio API", "Optimization & Profiling"]
+      },
+      {
+        "category": "數位內容創作",
+        "items": ["Blender 3D Modeling", "Substance Painter", "Houdini Node Workflows", "Rigging & Kinematics", "UI/UX World Space"]
+      }
+    ],
+    "socialLinks": [
+      { "name": "GitHub", "url": "https://github.com", "icon": "github" },
+      { "name": "ArtStation", "url": "https://artstation.com", "icon": "palette" },
+      { "name": "X (Twitter)", "url": "https://x.com", "icon": "twitter" },
+      { "name": "LinkedIn", "url": "https://linkedin.com", "icon": "linkedin" },
+      { "name": "Email", "url": "mailto:kaelen.techart@example.com", "icon": "mail" }
+    ]
+  },
+  "projects": [
+    {
+      "id": "proj-01",
+      "title": "Astraea: 星際生態浮島",
+      "category": "3D 實時探索遊戲",
+      "role": "Lead Technical Artist & Shader Dev",
+      "year": "2025",
+      "description": "以 Unity 6 WebGL 打造的低多邊形微生態模擬器。採用自訂風格化大氣散射著色器、動態風場植被擺動與無縫程序化地形生成。",
+      "url": "https://github.com/topics/threejs-game",
+      "thumbnail": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=600&q=80",
+      "themeColor": "#38bdf8",
+      "environmentType": "stellar",
+      "tags": ["Unity 6", "HLSL", "Procedural Mesh", "WebGL"],
+      "metrics": "60 FPS on Mobile, 240+ Procedural Islands",
+      "featured": true
+    },
+    {
+      "id": "proj-02",
+      "title": "Chronos Core: 時空重構鐘樓",
+      "category": "Web3D 數位孿生與空間展示",
+      "role": "Full-Stack WebGL Engineer",
+      "year": "2025",
+      "description": "融合微米級機械齒輪動力學與 PBR 物理反射的網頁端交互展示。支援零件爆炸圖解構、金屬異向性光澤與物理碰撞回饋。",
+      "url": "https://threejs.org/examples/",
+      "thumbnail": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=600&q=80",
+      "themeColor": "#f59e0b",
+      "environmentType": "cyberpunk",
+      "tags": ["Three.js", "PBR Materials", "Mechanical Kinematics", "React"],
+      "metrics": "Zero-Lag Kinematics, 120 Sub-assemblies",
+      "featured": true
+    },
+    {
+      "id": "proj-03",
+      "title": "Verdant Echo: 螢光神隱秘境",
+      "category": "沉浸式環境敘事與聲音景觀",
+      "role": "Environment Artist & Audio Designer",
+      "year": "2024",
+      "description": "探索古老生物發光森林的冥想冒險。整合 Web Audio API 空間混音合成器與自適應環境粒子系統，創造隨步伐呼吸的自然生態。",
+      "url": "https://github.com",
+      "thumbnail": "https://images.unsplash.com/photo-1511447333015-45b65e60f6d5?auto=format&fit=crop&w=600&q=80",
+      "themeColor": "#10b981",
+      "environmentType": "nature",
+      "tags": ["Environmental Storytelling", "Spatial Audio", "Particle VFX", "GLSL"],
+      "metrics": "100k+ Reactive Particles, Binaural 3D Audio",
+      "featured": true
+    },
+    {
+      "id": "proj-04",
+      "title": "Neon Nexus: 賽博數據終端機",
+      "category": "全息可視化與儀表板系統",
+      "role": "Creative Director & UI/UX Tech",
+      "year": "2024",
+      "description": "次世代 3D 空間數據拓撲網絡。將龐大的微服務架構轉化為即時發光的立體賽博都市，透過光束路徑展示高並發封包流轉。",
+      "url": "https://webglsamples.org/",
+      "thumbnail": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=600&q=80",
+      "themeColor": "#ec4899",
+      "environmentType": "cyberpunk",
+      "tags": ["Cyberpunk", "Data Topology", "Hologram Shaders", "InstancedMesh"],
+      "metrics": "Sub-millisecond Realtime Node Tracking",
+      "featured": false
+    },
+    {
+      "id": "proj-05",
+      "title": "Solaris: 恆星日冕物理模擬器",
+      "category": "天文計算與流體渲染實驗",
+      "role": "Graphics Researcher",
+      "year": "2023",
+      "description": "基於 Navier-Stokes 簡化方程與自訂 Raymarching 體積著色器的網頁即時太陽表面耀斑可視化，重現等離子體磁力線重聯現象。",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API",
+      "thumbnail": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?auto=format&fit=crop&w=600&q=80",
+      "themeColor": "#ef4444",
+      "environmentType": "stellar",
+      "tags": ["Raymarching", "Volumetric", "Scientific Sim", "WebGL2"],
+      "metrics": "Real-time Plasma Math, 4K HDR Output",
+      "featured": false
+    },
+    {
+      "id": "proj-06",
+      "title": "Aura Shards: 浮空晶石守護者",
+      "category": "跨平台輕競技冒險 Demo",
+      "role": "Game Producer & Tech Art Lead",
+      "year": "2023",
+      "description": "低延遲多人在線浮島競技場。具備動態物理破壞碎片系統、客製化頂點骨骼變形以及平滑的行動裝置雙搖桿觸控回饋機制。",
+      "url": "https://itch.io",
+      "thumbnail": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=600&q=80",
+      "themeColor": "#8b5cf6",
+      "environmentType": "fantasy",
+      "tags": ["Game Mechanics", "Mobile Touch Input", "Netcode", "Stylized 3D"],
+      "metrics": "4-Player WebSockets Sync, Low Latency",
+      "featured": false
+    }
+  ]
+}

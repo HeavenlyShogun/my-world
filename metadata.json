@@ -1,0 +1,6 @@
+{
+  "name": "Multiverse Hub: 3D 作品集路徑入口",
+  "description": "沉浸式 3D 開放世界作品集空間路徑入口。提供角色漫遊、動態資料驅動輻射路徑、全息空間 UI、主題色傳送門與星際空間躍遷體驗。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
